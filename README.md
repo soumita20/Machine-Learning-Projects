@@ -123,6 +123,5 @@ text datasets.
 ## Author
 
 **Soumita Chowdhury**  
-developed by Soumita Chowdhury as part of her Post Graduate Program in Data Science and Engineering
 [GitHub](https://github.com/soumita20) | 
 [LinkedIn](https://www.linkedin.com/in/soumita-chowdhury-93934617/)
