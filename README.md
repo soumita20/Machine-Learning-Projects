@@ -3,7 +3,7 @@
 A collection of end-to-end machine learning projects covering classification, 
 regression, and statistical hypothesis testing across diverse real-world domains.
 All projects were independently developed by Soumita Chowdhury as part of her 
-Post Graduate Program in Artificial Intelligence and Machine Learning
+MSc Data Science at Deakin University (2024).
 ---
 
 ## Projects
